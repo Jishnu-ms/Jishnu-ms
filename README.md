@@ -44,6 +44,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<iframe src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" frameborder="0" width="100%" height="200"></iframe>
+
+
+
+
 
 ###
