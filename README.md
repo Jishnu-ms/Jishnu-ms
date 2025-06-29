@@ -45,11 +45,13 @@
 
 ### 📊 GitHub Stats & Contributions
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jishnu-ms&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-ms&layout=compact&theme=tokyonight&hide_border=true" width="340"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jishnu-ms&theme=tokyonight&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-ms&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=supermoney-ui-clone,images-test" width="340"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishnu-ms&theme=tokyonight&hide_border=true" width="750"/>
 </p>
+
 
 ---
 
