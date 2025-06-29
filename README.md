@@ -1,68 +1,87 @@
-<h2 align="left">Hi 👋! My name is JISHNU and I'm a Software Developer </h2>
+<!-- Header Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Jishnu+MS!;Flutter+%7C+React+%7C+Java+%7C+Python+Dev.;I+build+clean+and+modern+apps." alt="Typing SVG" />
+</h1>
 
-###
+<br>
 
-<div align="center">
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.youtube.com/@Jishnu_ms" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://instagram.com/jishnl_l" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:jishnums830@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://linkedin.com/in/jishnums830" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&text=Welcome+To+My+GitHub!&fontColor=fff&fontSize=26&animation=twinkling" />
+</p>
 
 
-###
+---
+
+### 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
+- 🎓 CS Undergrad | Software Developer
+- 🔭 Working on **Flutter apps**, **cost estimators**, and **React dashboards**
+- 💬 Ask me about **Flutter**, **Java**, **Python**, **C**, **DSA**
+- 🎯 Goal: Launch a full Stack app & contribute to open source
+- 📫 Email: [jishnums830@gmail.com](mailto:jishnums830@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,flutter,react,html,css,js,dart,git,vscode,linux" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.youtube.com/@Jishnu_ms" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://instagram.com/jishnl_l" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:jishnums830@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jishnums830" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jishnu-ms&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jishnu-ms&layout=compact&theme=tokyonight&hide_border=true" width="340"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishnu-ms&theme=tokyonight&hide_border=true" width="750"/>
+</p>
+
+---
+
+### 🐍Snake 
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
 </picture>
 
+---
+
+### 🚀 Goals for 2025
+
+- ✅ Launch a production-ready mobile app
+- ✅ Create a Flutter web app with PDF + API
+- 🚀 Build a mini SaaS platform
+- 🧑‍🏫 Teach beginner developers via YouTube
+- 🌍 Contribute to a global open source project
+
+---
+
+### 🧩 Fun Stuff & Widgets
+
+- 💡 Quote of the Day  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
+---
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient" />
+</p>
