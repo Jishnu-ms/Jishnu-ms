@@ -17,7 +17,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 
 - 🎓 CS Undergrad | Software Developer
-- 🔭 Working on **Flutter apps**, **cost estimators**, and **React dashboards**
+- 🔭 Working on **Flutter apps**, and **React dashboards**
 - 💬 Ask me about **Flutter**, **Java**, **Python**, **C**, **DSA**
 - 🎯 Goal: Launch a full Stack app & contribute to open source
 - 📫 Email: [jishnums830@gmail.com](mailto:jishnums830@gmail.com)
