@@ -1,6 +1,6 @@
 <!-- Header Typing SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Jishnu+!;Flutter+%7C+React+%7C+Java+%7C+Python+Dev.;I+build+clean+and+modern+apps." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Jishnu+!;Flutter+%7C+React+%7C+Java+%7C+Python+%7C+C+Dev.;I+build+clean+and+modern+apps." alt="Typing SVG" />
 </h1>
 
 <br>
