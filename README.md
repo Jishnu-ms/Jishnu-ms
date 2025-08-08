@@ -19,7 +19,7 @@
 - 🎓 CS Undergrad | Software Developer
 - 🔭 Working on **Flutter apps**, and **React dashboards**
 - 💬 Ask me about **Flutter**, **Java**, **Python**, **C**, **DSA**
-- 🎯 Goal: Launch a full Stack app & contribute to open source
+- 🎯 Goal: Launch a full Stack apps & contribute to open source
 - 📫 Email: [jishnums830@gmail.com](mailto:jishnums830@gmail.com)
 
 ---
@@ -59,8 +59,6 @@
 ### 🚀 Goals for 2025
 
 - ✅ Launch a production-ready mobile app
-- ✅ Create a Flutter web app with PDF + API
-- 🧑‍🏫 Teach beginner developers via YouTube
 - 🌍 Contribute to a global open source project
 
 ---
