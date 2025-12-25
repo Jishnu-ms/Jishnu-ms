@@ -19,7 +19,6 @@
 - 🎓 CS Undergrad | Software Developer | Programmer
 - 🔭 Working on **Flutter apps**, **React dashboards**, **DNN**, **API**, **Firebase**, **Deployements**
 - 💬 Ask me about **Flutter**, **Java**, **Python**, **C**, **DSA**, **React**, **Firebase**, **FastApi**, **DNN**
-- 🎯 Goal: Launch a full Stack apps & contribute to open source
 - 📫 Email: [jishnums830@gmail.com](mailto:jishnums830@gmail.com)
 
 ---
