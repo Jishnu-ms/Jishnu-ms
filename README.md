@@ -26,10 +26,14 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,flutter,react,html,css,js,dart,git,vscode,linux,fastapi,supabase,antigravity,claude,chatgtp,gemini,perplexity,cursor" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,flutter,react,html,css,js,dart,git,vscode,linux,fastapi,supabase"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=antigravity,claude,chatgtp,gemini,perplexity,cursor" />
+  <img src="https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-000?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-000?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000?style=for-the-badge"/>
 </p>
 
 ---
