@@ -26,7 +26,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,flutter,react,html,css,js,dart,git,vscode,linux,fastapi,supabase"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,flutter,react,html,css,js,dart,git,vscode,linux,fastapi,supabase,vercel,github,ai"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-000?style=for-the-badge&logo=openai&logoColor=white"/>
