@@ -62,13 +62,6 @@
 ---
 
 
-### 🚀 Goals for 2025
-
-- ✅ Launch a production-ready mobile app
-- 🌍 Contribute to a global open source project
-
----
-
 ### 🧩 Fun Stuff & Widgets
 
 - 💡 Quote of the Day  
